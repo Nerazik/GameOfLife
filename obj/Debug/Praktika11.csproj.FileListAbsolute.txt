@@ -1,0 +1,21 @@
+C:\Users\trufe\OneDrive\Рабочий стол\Игра Жизнь\bin\Debug\Praktika11.exe.config
+C:\Users\trufe\OneDrive\Рабочий стол\Игра Жизнь\bin\Debug\Praktika11.exe
+C:\Users\trufe\OneDrive\Рабочий стол\Игра Жизнь\bin\Debug\Praktika11.pdb
+C:\Users\trufe\OneDrive\Рабочий стол\Игра Жизнь\obj\Debug\Praktika11.csproj.AssemblyReference.cache
+C:\Users\trufe\OneDrive\Рабочий стол\Игра Жизнь\obj\Debug\Praktika11.Game.resources
+C:\Users\trufe\OneDrive\Рабочий стол\Игра Жизнь\obj\Debug\Praktika11.Properties.Resources.resources
+C:\Users\trufe\OneDrive\Рабочий стол\Игра Жизнь\obj\Debug\Praktika11.csproj.GenerateResource.cache
+C:\Users\trufe\OneDrive\Рабочий стол\Игра Жизнь\obj\Debug\Praktika11.csproj.CoreCompileInputs.cache
+C:\Users\trufe\OneDrive\Рабочий стол\Игра Жизнь\obj\Debug\Praktika11.exe
+C:\Users\trufe\OneDrive\Рабочий стол\Игра Жизнь\obj\Debug\Praktika11.pdb
+C:\Users\Rost\Desktop\Практика\Игра Жизнь\bin\Debug\Praktika11.exe.config
+C:\Users\Rost\Desktop\Практика\Игра Жизнь\bin\Debug\Praktika11.exe
+C:\Users\Rost\Desktop\Практика\Игра Жизнь\bin\Debug\Praktika11.pdb
+C:\Users\Rost\Desktop\Практика\Игра Жизнь\obj\Debug\Praktika11.csproj.AssemblyReference.cache
+C:\Users\Rost\Desktop\Практика\Игра Жизнь\obj\Debug\Praktika11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rost\Desktop\Практика\Игра Жизнь\obj\Debug\Praktika11.Game.resources
+C:\Users\Rost\Desktop\Практика\Игра Жизнь\obj\Debug\Praktika11.Properties.Resources.resources
+C:\Users\Rost\Desktop\Практика\Игра Жизнь\obj\Debug\Praktika11.csproj.GenerateResource.cache
+C:\Users\Rost\Desktop\Практика\Игра Жизнь\obj\Debug\Praktika11.csproj.CoreCompileInputs.cache
+C:\Users\Rost\Desktop\Практика\Игра Жизнь\obj\Debug\Praktika11.exe
+C:\Users\Rost\Desktop\Практика\Игра Жизнь\obj\Debug\Praktika11.pdb
